@@ -2,4 +2,5 @@
 2. Create code for contact module of the whatsup application.
 3. Create code for profile setup module of the whatsup application.
 4. Create code for status module of the whatsup application.
-5. Create code for call module of the whatsup application.
+5. create code to hide last seen in chat window.
+6. Create code for call module of the whatsup application.
